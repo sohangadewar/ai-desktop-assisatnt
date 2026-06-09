@@ -1,0 +1,12 @@
+ speech_recognition 
+ pyttsx3
+ webbrowser
+ os
+ pygame
+ math
+ threading
+ random
+ time
+ psutil
+ requests
+ traceback
